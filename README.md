@@ -86,14 +86,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/7a604h3vyg3r1insgtyd33iyv">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7a604h3vyg3r1insgtyd33iyv&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HribernikBlaz.HribernikBlaz&left_color=deepskyblue&left_text=Profile%20Views"  />
 </div>
 
