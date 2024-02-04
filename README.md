@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hey there! 👋 I'm Blaž, a passionate computer science enthusiast hailing from Slovenia.<br><br>💻 I thrive in the world of C# and SQL, and I'm no stranger to crafting with HTML, CSS, and PHP. While JavaScript might not be my best friend, I'm always open to exploring new languages and expanding my skill set.<br><br>🚀 Currently, my coding adventures revolve around personal projects, each serving as a stepping stone to elevate my knowledge and capabilities.<br><br>👀 Thanks for stopping by and exploring my coding journey! Let's build amazing things together! 🚀</p>
+<p align="left">Hey there! 👋 I'm Blaž, a passionate computer science enthusiast hailing from Slovenia.<br><br>💻 I thrive in the world of C# and SQL, and I'm no stranger to crafting with HTML, CSS, and PHP. While JavaScript might not be my best friend, I'm always open to exploring new languages and expanding my skill set.<br><br>🚀 Currently, my coding adventures revolve around personal projects, each serving as a stepping stone to elevate my knowledge and capabilities.<br><br>👀 Thanks for stopping by and exploring my coding journey! Let's build amazing things together! 🚀</p><br>
 
 ###
 # My Skills
@@ -91,7 +91,7 @@
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="Ruby logo" />
-</div>
+</div><br>
 
 
 
@@ -123,9 +123,9 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HribernikBlaz.HribernikBlaz&left_color=deepskyblue&left_text=Profile%20Views"  />
 </div>
-
+-->
 ###
