@@ -128,25 +128,26 @@
 <div align="left">
   <div>
     <a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/">
-      <img src="https://img.shields.io/badge/Linux-25%25-yellowgreen?style=for-the-badge" alt="Linux">
+      <img src="https://img.shields.io/badge/Linux-25%25-red?style=for-the-badge" alt="Linux">
     </a>
   </div>
   <div>
     <a href="https://members.codewithmosh.com/courses/enrolled/525068">
-      <img src="https://img.shields.io/badge/SQL%20Mastery-37%25-red?style=for-the-badge" alt="SQL Mastery">
+      <img src="https://img.shields.io/badge/SQL%20Mastery-37%25-yellow?style=for-the-badge" alt="SQL Mastery">
     </a>
   </div>
   <div>
     <a href="https://www.udemy.com/course/c-sharp-oop-ultimate-guide-project-master-class/">
-      <img src="https://img.shields.io/badge/C%23%20Ultimate%20Guide-15%25-yellow?style=for-the-badge" alt="C# Ultimate Guide">
+      <img src="https://img.shields.io/badge/C%23%20Ultimate%20Guide-15%25-red?style=for-the-badge" alt="C# Ultimate Guide">
     </a>
   </div>
   <div>
     <a href="https://www.youtube.com/watch?v=lfmg-EJ8gm4">
-      <img src="https://img.shields.io/badge/Javascript%20Beginner-28%25-orange?style=for-the-badge" alt="Javascript Beginner">
+      <img src="https://img.shields.io/badge/Javascript%20Beginner-33%25-red?style=for-the-badge" alt="Javascript Beginner">
     </a>
   </div>
 </div>
+
 
 
 ###
