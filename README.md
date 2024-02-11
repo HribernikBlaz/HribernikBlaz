@@ -143,7 +143,7 @@
   </div>
   <div>
     <a href="https://www.youtube.com/watch?v=lfmg-EJ8gm4">
-      <img src="https://img.shields.io/badge/Javascript%20Beginner-33%25-red?style=for-the-badge" alt="Javascript Beginner">
+      <img src="https://img.shields.io/badge/Javascript%20Beginner-37%25-yellow?style=for-the-badge" alt="Javascript Beginner">
     </a>
   </div>
 </div>
