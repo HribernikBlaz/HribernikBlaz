@@ -137,6 +137,11 @@
     </a>
   </div>
   <div>
+    <a href="https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P">
+      <img src="https://img.shields.io/badge/Data%20Structures-31%25-yellow?style=for-the-badge" alt="Javascript Beginner">
+    </a>
+  </div>
+  <div>
     <a href="https://www.udemy.com/course/c-sharp-oop-ultimate-guide-project-master-class/">
       <img src="https://img.shields.io/badge/C%23%20Ultimate%20Guide-23%25-red?style=for-the-badge" alt="C# Ultimate Guide">
     </a>
