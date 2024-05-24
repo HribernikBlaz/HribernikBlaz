@@ -143,7 +143,7 @@
   </div>
   <div>
     <a href="https://www.udemy.com/course/c-sharp-oop-ultimate-guide-project-master-class/">
-      <img src="https://img.shields.io/badge/C%23%20Ultimate%20Guide-23%25-red?style=for-the-badge" alt="C# Ultimate Guide">
+      <img src="https://img.shields.io/badge/C%23%20Ultimate%20Guide-29%25-red?style=for-the-badge" alt="C# Ultimate Guide">
     </a>
   </div>
   <div>
