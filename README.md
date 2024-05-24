@@ -152,7 +152,6 @@
 
 ###
 
-## My Setup
 
 <div align="center">
   <h2>💻 My Setup</h2>
