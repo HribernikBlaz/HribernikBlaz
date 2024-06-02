@@ -135,7 +135,7 @@
   </div>
   <div>
     <a href="https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P">
-      <img src="https://img.shields.io/badge/Data%20Structures-31%25-yellow?style=for-the-badge" alt="Data Structures">
+      <img src="https://img.shields.io/badge/Data%20Structures-31%25-red?style=for-the-badge" alt="Data Structures">
     </a>
   </div>
   <div>
