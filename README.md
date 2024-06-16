@@ -120,12 +120,17 @@
   <img src="https://streak-stats.demolab.com?user=HribernikBlaz&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
-### Courses
+### Currently learning
 
 <div align="left">
   <div>
     <a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/">
       <img src="https://img.shields.io/badge/Linux-25%25-red?style=for-the-badge" alt="Linux">
+    </a>
+  </div>
+  <div>
+    <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1">
+      <img src="https://img.shields.io/badge/Vue-25%25-red?style=for-the-badge" alt="Vue">
     </a>
   </div>
   <div>
