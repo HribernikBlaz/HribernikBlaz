@@ -124,13 +124,13 @@
 
 <div align="left">
   <div>
-    <a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/">
-      <img src="https://img.shields.io/badge/Linux-25%25-red?style=for-the-badge" alt="Linux">
+    <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1">
+      <img src="https://img.shields.io/badge/Vue-25%25-red?style=for-the-badge" alt="Vue">
     </a>
   </div>
   <div>
-    <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1">
-      <img src="https://img.shields.io/badge/Vue-25%25-red?style=for-the-badge" alt="Vue">
+    <a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/">
+      <img src="https://img.shields.io/badge/Linux-25%25-red?style=for-the-badge" alt="Linux">
     </a>
   </div>
   <div>
