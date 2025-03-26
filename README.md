@@ -3,7 +3,11 @@
 
 ###
 
-<p align="left">Hey there! 👋 I'm Blaž, a passionate computer science enthusiast hailing from Slovenia.<br><br>💻 I thrive in the world of C# and SQL, and I'm no stranger to crafting with HTML, CSS, and PHP. While JavaScript might not be my best friend, I'm always open to exploring new languages and expanding my skill set.<br><br>🚀 Currently, my coding adventures revolve around personal projects, each serving as a stepping stone to elevate my knowledge and capabilities.<br><br>👀 Thanks for stopping by and exploring my coding journey! Let's build amazing things together! 🚀</p><br>
+<p align="left">Hey there! 👋 I'm Blaž, a passionate computer science enthusiast hailing from Slovenia.<br><br>  
+💻 I thrive in the world of C# and SQL, and I'm no stranger to crafting with HTML, CSS, and PHP. While JavaScript might not be my best friend, I'm always open to exploring new languages and expanding my skill set.<br><br>  
+🐍 Currently, I'm learning Python and experimenting with both desktop and web applications. I also love working with Raspberry Pi, integrating it into various personal projects.<br><br>  
+🚀 My coding adventures revolve around personal projects, each serving as a stepping stone to elevate my knowledge and capabilities.<br><br>  
+👀 Thanks for stopping by and exploring my coding journey! Let's build amazing things together! 🚀</p><br>
 
 ###
 
@@ -38,8 +42,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="Adobe Photoshop logo" />
@@ -48,21 +50,23 @@
 #### I know roughly
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redhat/EE0000" height="40" alt="Red Hat logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap logo" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
+  <img width="12" />
 </div>
 
 #### I used once or twice
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker logo" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="PowerShell logo" />
   <img width="12" />
@@ -155,41 +159,3 @@
   </div>
 </div>
 
-###
-
-
-<div align="center">
-  <h2>💻 My Setup</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.bigbang.si/lenovo-legion-slim-5-16aph8-16-wqxga-ips-2560x1600-165hz-amd-ryzen7-7840hs-16gb-1tb-rtx-4060-w11h-srebrn-gaming-prenosni-racunalnik-izdelek-989144/">
-          <img src="https://p2-ofp.static.pub/fes/cms/2023/05/03/do98h2vfzg6fhd8sf9uz0btf8m1wjy733824.png" height="150" alt="LENOVO SLIM 5">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.amazon.de/-/en/Logitech-Master-Performance-Scrolling-Ergonomic/dp/B07W5JKHFZ/ref=sr_1_1?sr=8-1">
-          <img src="https://resource.logitech.com/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-black.png" height="150" alt="LOGITECH MX MASTER 3S">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://png.pngitem.com/pimgs/s/415-4154242_transparent-alienware-laptop-png-alienware-25-gaming-monitor.png">
-          <img src="https://cdn.mos.cms.futurecdn.net/Q3UYZ2ybj8DjxFZozVDi8P-1200-80.jpg" height="150" alt="ALIENWARE 25">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.mimovrste.com/namizni-racunalniki/pcx-racunalnik-extian-gxled-42-i7-870016gbssd2402tbgtx1060freedos-139534">
-          <img src="https://www.altstore.si/modules/uploader/uploads/s_product/pictures/namizni-racunalnik-pcx-extian-gxl-0.139534.jpg" height="150" alt="PC EXTIAN GXLED">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">LENOVO SLIM 5</td>
-      <td align="center">LOGITECH MX MASTER 3S</td>
-      <td align="center">ALIENWARE 25</td>
-      <td align="center">PC EXTIAN GXLED<br>(with upgraded PSU and added Samsung 980 1TB SSD)</td>
-    </tr>
-  </table>
-</div>
-
-###
