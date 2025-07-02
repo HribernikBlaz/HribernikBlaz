@@ -160,7 +160,7 @@
     </a>
       <div>
     <a href="https://www.youtube.com/watch?v=etSN4X_fCnM&list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM">
-      <img src="https://img.shields.io/badge/GO%20Beginner-38%25-green?style=for-the-badge" alt="GO for Beginners">
+      <img src="https://img.shields.io/badge/GO%20Beginner-100%25-green?style=for-the-badge" alt="GO for Beginners">
     </a>
   </div>
 </div>
