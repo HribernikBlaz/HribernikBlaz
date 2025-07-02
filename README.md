@@ -61,6 +61,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Go.svg" height="40" alt="GO logo" />
+  <img width="12" />
 </div>
 
 #### I used once or twice
@@ -155,6 +157,10 @@
   <div>
     <a href="https://www.youtube.com/watch?v=lfmg-EJ8gm4">
       <img src="https://img.shields.io/badge/Javascript%20Beginner-38%25-yellow?style=for-the-badge" alt="Javascript Beginner">
+    </a>
+      <div>
+    <a href="https://www.youtube.com/watch?v=etSN4X_fCnM&list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM">
+      <img src="https://img.shields.io/badge/GO%20Beginner-38%25-green?style=for-the-badge" alt="GO for Beginners">
     </a>
   </div>
 </div>
