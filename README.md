@@ -52,11 +52,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" width="30" alt="PuTTY logo" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" width="30" alt="Arduino logo" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" width="30" alt="WordPress logo" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="30" width="30" alt="Vue.js logo" />
 </div>
 
 #### Want to learn
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 12px;">
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="30" width="30" alt="Vue.js logo" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" width="30" alt="Node.js logo" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" width="30" alt="AngularJS logo" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" width="30" alt="React logo" />
