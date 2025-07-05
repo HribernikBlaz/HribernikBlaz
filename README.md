@@ -5,7 +5,7 @@
 
 <p align="left">Hey there! 👋 I'm Blaž, a passionate computer science enthusiast hailing from Slovenia.<br><br>  
 💻 I thrive in the world of C# and SQL, and I'm no stranger to crafting with HTML, CSS, and PHP. While JavaScript might not be my best friend, I'm always open to exploring new languages and expanding my skill set.<br><br>  
-🐍 Currently, I'm learning Python and experimenting with both desktop and web applications. I also love working with Raspberry Pi, integrating it into various personal projects.<br><br>  
+🐍 Currently, I'm learning Python and GO and experimenting with both desktop and web applications. I also love working with Raspberry Pi, integrating it into various personal projects.<br><br>  
 🚀 My coding adventures revolve around personal projects, each serving as a stepping stone to elevate my knowledge and capabilities.<br><br>  
 👀 Thanks for stopping by and exploring my coding journey! Let's build amazing things together! 🚀</p><br>
 
