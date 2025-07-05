@@ -11,92 +11,59 @@
 
 ###
 
-# My Skills
+### My Skills
 
 #### I am proficient in
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=atom" height="40" alt="Atom logo" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="30" alt="C# logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" alt="CSS3 logo" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" width="30" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="30" alt="Visual Studio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30" alt="VSCode logo" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" width="30" alt=".NET logo" />
+  <img src="https://skillicons.dev/icons?i=atom" height="30" width="30" alt="Atom logo" />
 </div>
 
 #### I am somewhat comfortable using
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="Adobe Photoshop logo" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=github" height="30" width="30" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="30" alt="Linux logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" width="30" alt="Figma logo" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" width="30" alt="Adobe Photoshop logo" />
 </div>
 
 #### I know roughly
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="40" alt="Red Hat logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap logo" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Go.svg" height="40" alt="GO logo" />
-  <img width="12" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="Python logo" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" width="30" alt="Netlify logo" />
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="30" width="30" alt="Red Hat logo" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" width="30" alt="Bootstrap logo" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" width="30" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="30" alt="PHP logo" />
+  <img src="https://icon.icepanel.io/Technology/svg/Go.svg" height="30" width="30" alt="GO logo" />
 </div>
 
 #### I used once or twice
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="PowerShell logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="PuTTY logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="Arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="WordPress logo" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 12px;">
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" width="30" alt="Android Studio logo" />
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="30" width="30" alt="PowerShell logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" width="30" alt="PuTTY logo" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" width="30" alt="Arduino logo" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" width="30" alt="WordPress logo" />
 </div>
 
 #### Want to learn
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="Vue.js logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="AngularJS logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="Ruby logo" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 12px;">
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="30" width="30" alt="Vue.js logo" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" width="30" alt="Node.js logo" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" width="30" alt="AngularJS logo" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" width="30" alt="React logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" width="30" alt="C++ logo" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" width="30" alt="MongoDB logo" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" width="30" alt="TypeScript logo" />
+  <img src="https://cdn.simpleicons.org/ruby/CC342D" height="30" width="30" alt="Ruby logo" />
 </div><br>
 
 ###
