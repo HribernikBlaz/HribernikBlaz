@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="30" alt="Linux logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" width="30" alt="Figma logo" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" width="30" alt="Adobe Photoshop logo" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" width="30" alt="Docker logo" />
 </div>
 
 #### I know roughly
@@ -40,7 +40,6 @@
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" width="30" alt="Netlify logo" />
   <img src="https://cdn.simpleicons.org/redhat/EE0000" height="30" width="30" alt="Red Hat logo" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" width="30" alt="Bootstrap logo" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" width="30" alt="Docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="30" alt="PHP logo" />
   <img src="https://icon.icepanel.io/Technology/svg/Go.svg" height="30" width="30" alt="GO logo" />
 </div>
