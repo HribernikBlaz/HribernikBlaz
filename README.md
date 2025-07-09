@@ -47,7 +47,6 @@
 #### I used once or twice
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 12px;">
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" width="30" alt="Android Studio logo" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="30" width="30" alt="PowerShell logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" width="30" alt="PuTTY logo" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" width="30" alt="Arduino logo" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" width="30" alt="WordPress logo" />
