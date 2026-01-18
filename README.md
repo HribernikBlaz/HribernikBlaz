@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Blaž</h1>
 <img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
-###
-
 <p align="left">Hey there! 👋 I'm Blaž, a passionate computer science enthusiast hailing from Slovenia.<br><br>  
 💻 I thrive in the world of C# and SQL, and I'm no stranger to crafting with HTML, CSS, and PHP. While JavaScript might not be my best friend, I'm always open to exploring new languages and expanding my skill set.<br><br>  
-🐍 Currently, I'm learning Python and GO and experimenting with both desktop and web applications. I also love working with Raspberry Pi, integrating it into various personal projects.<br><br>  
-🚀 My coding adventures revolve around personal projects, each serving as a stepping stone to elevate my knowledge and capabilities.<br><br>  
+🐍 Currently, I'm learning Python and Go, experimenting with both desktop and web applications.<br><br>  
+🔌 I'm diving deep into embedded systems and IoT! Working with Raspberry Pi, ESP32, and ESP8266 to build smart home solutions, network monitoring tools, and exploring the intersection of cloud and edge computing. From setting up WiFi hotspots to capturing network traffic for security analysis, I love getting hands-on with hardware.<br><br>  
+🏠 Recently started with my diploma thesis on IoT security, comparing cloud-based vs edge computing architectures for smart homes. Practical experience includes packet analysis, network protocols (MQTT, TLS), and building monitoring systems from scratch.<br><br>  
+🚀 My coding adventures revolve around personal projects, each serving as a stepping stone to elevate my knowledge and capabilities. Whether it's software development or hardware tinkering, I'm always building something new!<br><br>  
 👀 Thanks for stopping by and exploring my coding journey! Let's build amazing things together! 🚀</p><br>
 
-###
 
 ### My Skills
 
